@@ -93,7 +93,7 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 ## 🧠 Author
 
 **JT Y.** – Data Scientist & M.Sc. student in Project Management & Data Science @ HTW Berlin  
-[LinkedIn](https://www.linkedin.com/in/chang-hsuan-jt-yang/) ・ [Medium](https://medium.com/@johnsonxxx0926) ・ [GitHub](https://github.com/JohnsonIsHere)
+[LinkedIn](https://www.linkedin.com/in/jt-y-37a299174/) ・ [Medium](https://medium.com/@johnsonxxx0926) ・ [GitHub](https://github.com/JohnsonIsHere)
 
 > "Mathematics is the bridge between the abstract and the applicable — and machine learning walks right on it."
 
