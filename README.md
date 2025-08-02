@@ -12,7 +12,7 @@ This 3-course series bridges the gap between academic math and its applications 
 
 | Course | Title                              | Description                                                                                |
 | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------ |
-| 📘 1    | Linear Algebra                     | Understand vectors, matrices, basis transformations, and how they relate to ML             |
+| 📘 1    | [Linear Algebra](https://github.com/JohnsonIsHere/mathematics-for-machine-learning-notes/tree/main/linear-algebra)                     | Understand vectors, matrices, basis transformations, and how they relate to ML             |
 | 📗 2    | Multivariate Calculus              | Learn optimization, gradients, chain rule, and backpropagation                             |
 | 📙 3    | Principal Component Analysis (PCA) | Use linear algebra & calculus to perform dimensionality reduction on high-dimensional data |
 
