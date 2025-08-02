@@ -1,45 +1,92 @@
-# Mathematics for Machine Learning – Linear Algebra Notes 📗
+# Mathematics for Machine Learning – Notes & Python Visualizations 📐
 
-This repository contains my personal learning notes and Python-based visualizations for the **Linear Algebra** chapter of *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+This repository contains my personal learning notes, Python implementations, and visual explanations based on the **Mathematics for Machine Learning Specialization** by Imperial College London.
 
-These notes are crafted to strengthen my mathematical foundation and support future applications in machine learning and AI projects.
-
----
-
-## 🔍 Goals
-
-- Build an intuitive and visual understanding of linear algebra for machine learning
-- Connect theory with practical Python examples (NumPy/Matplotlib)
-- Prepare for deeper study in model optimization, vector spaces, and transformations
-- Serve as a reference for future data science and AI engineering work
+> The goal of this project is to build strong mathematical intuition for machine learning, reinforced through code and visual storytelling.
 
 ---
 
-## 📚 Chapters Covered
+## 🔍 Specialization Overview
 
-| Section | Topic                                          |
-| ------- | ---------------------------------------------- |
-| A       | Introduction to Linear Algebra                 |
-| A1      | What is a vector?                              |
-| A2      | Vector addition                                |
-| A3      | Vector multiplication                          |
-| B       | Vectors and Dot Products                       |
-| B1      | The length of vectors                          |
-| B2      | The dot product                                |
-| B3      | The cosine rule and dot products               |
-| B4      | Vector projection                              |
-| B5      | Changing basis (coordinate systems)            |
-| B6      | Basis, vector space, and linear independence   |
-| C       | Matrices                                       |
-| C1      | Introduction to matrices                       |
-| C2      | Matrices operating on vectors                  |
-| C3      | Matrix composition (combining transformations) |
-| C4      | Matrix inverses                                |
-| C5      | Special matrices (determinants and inverses)   |
+This 3-course series bridges the gap between academic math and its applications in Data Science & Machine Learning. Each course combines theory with hands-on Jupyter notebooks and interactive visualizations.
+
+| Course | Title                              | Description                                                                                |
+| ------ | ---------------------------------- | ------------------------------------------------------------------------------------------ |
+| 📘 1    | Linear Algebra                     | Understand vectors, matrices, basis transformations, and how they relate to ML             |
+| 📗 2    | Multivariate Calculus              | Learn optimization, gradients, chain rule, and backpropagation                             |
+| 📙 3    | Principal Component Analysis (PCA) | Use linear algebra & calculus to perform dimensionality reduction on high-dimensional data |
+
+🧑‍🏫 **Instructors:**  
+David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page  
+*Imperial College London*
+
+---
+
+## 📚 Chapters & Learning Notes
+
+### 📘 Mathematics for Machine Learning: Linear Algebra
+
+- A. Introduction to Linear Algebra  
+  - A1. What is a vector?  
+  - A2. Vector addition  
+  - A3. Vector multiplication  
+
+- B. Vectors and Dot Products  
+  - B1. Length of vectors  
+  - B2. Dot product  
+  - B3. Cosine rule  
+  - B4. Vector projection  
+  - B5. Changing basis  
+  - B6. Vector space and linear independence  
+
+- C. Matrices  
+  - C1. What is a matrix?  
+  - C2. Matrix operations  
+  - C3. Composition of transformations  
+  - C4. Matrix inverses  
+  - C5. Determinants & special matrices  
 
 > 🧠 Upcoming:
 > - D. Matrices make linear mappings
 > - E. Eigenvalues and Eigenvectors
+
+---
+
+### 📗 Mathematics for Machine Learning: Multivariate Calculus
+
+- A. Introduction to Functions  
+- B. Limits and Continuity  
+- C. Partial Derivatives  
+- D. Gradient Vectors  
+- E. Chain Rule in Multiple Dimensions  
+- F. Jacobian and Hessian  
+- G. Optimization & Critical Points  
+- H. Backpropagation & Application in Neural Networks  
+
+> 🛠️ Coming soon
+
+---
+
+### 📙 Mathematics for Machine Learning: PCA (Dimensionality Reduction)
+
+- A. What is PCA and why it matters  
+- B. Covariance matrices & eigen decomposition  
+- C. Eigenvalues and eigenvectors  
+- D. Explained variance  
+- E. Dimensionality reduction in practice  
+- F. PCA on real-world data (e.g., MNIST)  
+- G. Python implementation using NumPy and Scikit-learn  
+
+> 🛠️ Coming soon
+---
+
+## 💻 Tools Used
+
+- Python 3.x
+- Jupyter Notebook
+- NumPy, Matplotlib
+- SymPy (for symbolic math)
+- Scikit-learn (for PCA)
 
 ---
 
@@ -48,27 +95,16 @@ These notes are crafted to strengthen my mathematical foundation and support fut
 **JT Y.** – Data Scientist & M.Sc. student in Project Management & Data Science @ HTW Berlin  
 [LinkedIn](https://www.linkedin.com/in/chang-hsuan-jt-yang/) ・ [Medium](https://medium.com/@johnsonxxx0926) ・ [GitHub](https://github.com/JohnsonIsHere)
 
-> "Linear algebra is more than abstract math — it's how we move, transform, and understand objects in high-dimensional spaces."
-
----
-
-## 🧰 Tech Stack
-
-- Python 3.x
-- Jupyter Notebook (.ipynb)
-- NumPy, Matplotlib
-
----
-
-## 💡 Tips
-
-If you're learning this for ML:
-- Visualize every transformation — it helps deeply understand what's going on.
-- Connect matrices to real-world transformations (rotations, reflections, projections).
-- Don't just memorize formulas. Think geometrically.
+> "Mathematics is the bridge between the abstract and the applicable — and machine learning walks right on it."
 
 ---
 
 ## ⭐ Related Projects
 
-- [Essential Math for Data Science Notes 📘](https://github.com/JohnsonIsHere/essential-math-for-data-science-notes)
+- [Essential Math for Data Science 📘](https://github.com/JohnsonIsHere/essential-math-for-data-science-notes)
+
+---
+
+## 📜 License
+
+MIT License © 2025 JT Y.
