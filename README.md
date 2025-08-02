@@ -101,7 +101,7 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 
 ## ⭐ Related Projects
 
-- [Essential Math for Data Science 📘](https://github.com/JohnsonIsHere/essential-math-for-data-science-notes)
+- [Essential Math for Data Science 📘](https://github.com/JohnsonIsHere/essential-math-ds-notes)
 
 ---
 
