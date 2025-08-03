@@ -44,7 +44,8 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
   - C2. Matrix operations  
   - C3. Composition of transformations  
   - C4. Matrix inverses  
-  - C5. Determinants & special matrices  
+  - C5. Determinants & special matrices
+  - Python code: Echelon form transformation and Singularity
 
 > 🧠 Upcoming:
 > - D. Matrices make linear mappings
