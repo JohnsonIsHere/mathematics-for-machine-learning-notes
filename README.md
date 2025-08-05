@@ -105,6 +105,7 @@ With 4 years of international experience applying machine learning and customer 
 
 2025 Admitted:
   - M.Sc. AI/Data Science at Technical University of Munich (QS World #22, THE World #26, Germany #1) and Utrecht University (US News World #49, THE World #66)
+    
 [LinkedIn](https://www.linkedin.com/in/jt-y-37a299174/) ・ [Medium](https://medium.com/@johnsonxxx0926) ・ [GitHub](https://github.com/JohnsonIsHere)
 
 > "Mathematics is the bridge between the abstract and the applicable — and machine learning walks right on it."
