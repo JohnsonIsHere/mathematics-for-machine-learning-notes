@@ -99,7 +99,7 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 
 ## 🧠 Author
 
-**JT Y.** – Ex-Silicon Valley Remote Data Scientist & M.Sc. student in Project Management & Data Science @ HTW Berlin  
+**JT Y. | Journey of Tech | Johnson from Taiwan ** – Ex-Silicon Valley Remote Data Scientist & M.Sc. student in Project Management & Data Science @ HTW Berlin  
 
 With 4 years of international experience applying machine learning and customer analytics to solve human-centric business problems in e-commerce. I specialize in developing solutions for churn prediction, recommendation systems, and customer segmentation to drive profitability and growth.
 
