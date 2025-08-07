@@ -46,9 +46,15 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
   - C4. Matrix inverses  
   - C5. Determinants & special matrices
   - Python code: Echelon form transformation and Singularity
+- D. Matrices make linear mappings
+  - D1. Einstein summation convention and the symmetry of the dot product
+  - Python code: Using nested loops to compute the product matrix
+  - D2. Dot product revisited with the summation convention
+  - D3. Revisit: Transforming Vectors Between Different Bases
+  - D4. Transformation in a changed basis
+  - D5. The transpose and orthogonal matrices
 
 > 🧠 Upcoming:
-> - D. Matrices make linear mappings
 > - E. Eigenvalues and Eigenvectors
 
 ---
@@ -93,7 +99,13 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 
 ## 🧠 Author
 
-**JT Y.** – Data Scientist & M.Sc. student in Project Management & Data Science @ HTW Berlin  
+**JT Y.** | Journey of Tech | Johnson from Taiwan  – Ex-Silicon Valley Remote Data Scientist & M.Sc. student in Project Management & Data Science @ HTW Berlin  
+
+With 4 years of international experience applying machine learning and customer analytics to solve human-centric business problems in e-commerce. I specialize in developing solutions for churn prediction, recommendation systems, and customer segmentation to drive profitability and growth.
+
+2025 Admitted:
+  - M.Sc. AI/Data Science at Technical University of Munich (QS World #22, THE World #26, Germany #1) and Utrecht University (US News World #49, THE World #66)
+    
 [LinkedIn](https://www.linkedin.com/in/jt-y-37a299174/) ・ [Medium](https://medium.com/@johnsonxxx0926) ・ [GitHub](https://github.com/JohnsonIsHere)
 
 > "Mathematics is the bridge between the abstract and the applicable — and machine learning walks right on it."
