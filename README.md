@@ -59,11 +59,11 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
   - D7. Example of transformation - Reflecting in a plane
   - Python code: Transformation-Relfection (Reflecting Bear)
   
- - E. Eigenvalues and Eigenvectors
+- E. Eigenvalues and Eigenvectors
   - E1. Introduction to Eigenvectors and Eigenvalues
   - E2. Special Eigen-cases and higher dimensions
   - E3. Calculating Eigenvectors
-  
+
 > 🧠 Upcoming: Applications of Eigenvectors and Eigenvalues 
 
 ---
