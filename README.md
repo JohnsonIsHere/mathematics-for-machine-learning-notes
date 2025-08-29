@@ -10,11 +10,11 @@ This repository contains my personal learning notes, Python implementations, and
 
 This 3-course series bridges the gap between academic math and its applications in Data Science & Machine Learning. Each course combines theory with hands-on Jupyter notebooks and interactive visualizations.
 
-| Course | Title                              | Description                                                                                |
-| ------ | ---------------------------------- | ------------------------------------------------------------------------------------------ |
-| 📘 1    | [Linear Algebra](https://github.com/JohnsonIsHere/mathematics-for-machine-learning-notes/tree/main/linear-algebra)                     | Understand vectors, matrices, basis transformations, and how they relate to ML             |
-| 📗 2    | Multivariate Calculus              | Learn optimization, gradients, chain rule, and backpropagation                             |
-| 📙 3    | Principal Component Analysis (PCA) | Use linear algebra & calculus to perform dimensionality reduction on high-dimensional data |
+| Course | Title                                                                                                              | Description                                                                                |
+| ------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| 📘 1    | [Linear Algebra](https://github.com/JohnsonIsHere/mathematics-for-machine-learning-notes/tree/main/linear-algebra) | Understand vectors, matrices, basis transformations, and how they relate to ML             |
+| 📗 2    | Multivariate Calculus                                                                                              | Learn optimization, gradients, chain rule, and backpropagation                             |
+| 📙 3    | Principal Component Analysis (PCA)                                                                                 | Use linear algebra & calculus to perform dimensionality reduction on high-dimensional data |
 
 🧑‍🏫 **Instructors:**  
 David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page  
@@ -46,6 +46,7 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
   - C4. Matrix inverses  
   - C5. Determinants & special matrices
   - Python code: Echelon form transformation and Singularity
+  
 - D. Matrices make linear mappings
   - D1. Einstein summation convention and the symmetry of the dot product
   - Python code: Using nested loops to compute the product matrix
@@ -53,9 +54,17 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
   - D3. Revisit: Transforming Vectors Between Different Bases
   - D4. Transformation in a changed basis
   - D5. The transpose and orthogonal matrices
-
-> 🧠 Upcoming:
-> - E. Eigenvalues and Eigenvectors
+  - D6. The Gram-Schmidt process (how to construct an orthonormal basis)
+  - Python code: The Gram Schmidt process
+  - D7. Example of transformation - Reflecting in a plane
+  - Python code: Transformation-Relfection (Reflecting Bear)
+  
+ - E. Eigenvalues and Eigenvectors
+  - E1. Introduction to Eigenvectors and Eigenvalues
+  - E2. Special Eigen-cases and higher dimensions
+  - E3. Calculating Eigenvectors
+  
+> 🧠 Upcoming: Applications of Eigenvectors and Eigenvalues 
 
 ---
 
