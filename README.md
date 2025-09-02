@@ -63,21 +63,13 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
   - E1. Introduction to Eigenvectors and Eigenvalues
   - E2. Special Eigen-cases and higher dimensions
   - E3. Calculating Eigenvectors
-
-> 🧠 Upcoming: Applications of Eigenvectors and Eigenvalues 
+  - E4. Changing to the Eigen basis: Diagonalization
+  - Page Rank: A Practical Application of Egienproblems
+  - Python code: Page Rank
 
 ---
 
 ### 📗 Mathematics for Machine Learning: Multivariate Calculus
-
-- A. Introduction to Functions  
-- B. Limits and Continuity  
-- C. Partial Derivatives  
-- D. Gradient Vectors  
-- E. Chain Rule in Multiple Dimensions  
-- F. Jacobian and Hessian  
-- G. Optimization & Critical Points  
-- H. Backpropagation & Application in Neural Networks  
 
 > 🛠️ Coming soon
 
@@ -85,13 +77,6 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 
 ### 📙 Mathematics for Machine Learning: PCA (Dimensionality Reduction)
 
-- A. What is PCA and why it matters  
-- B. Covariance matrices & eigen decomposition  
-- C. Eigenvalues and eigenvectors  
-- D. Explained variance  
-- E. Dimensionality reduction in practice  
-- F. PCA on real-world data (e.g., MNIST)  
-- G. Python implementation using NumPy and Scikit-learn  
 
 > 🛠️ Coming soon
 ---
@@ -101,8 +86,6 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 - Python 3.x
 - Jupyter Notebook
 - NumPy, Matplotlib
-- SymPy (for symbolic math)
-- Scikit-learn (for PCA)
 
 ---
 
