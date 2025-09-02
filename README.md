@@ -106,7 +106,7 @@ With 4 years of international experience applying machine learning and customer 
 
 ## ⭐ Related Projects
 
-- [Essential Math for Data Science 📘](https://github.com/JohnsonIsHere/essential-math-ds-notes)
+- [Essential Math for Data Science 📘](https://github.com/JohnsonIsHere/essential-math-ds-notes)(coming soon!)
 
 ---
 
