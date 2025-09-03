@@ -10,11 +10,11 @@ This repository contains my personal learning notes, Python implementations, and
 
 This 3-course series bridges the gap between academic math and its applications in Data Science & Machine Learning. Each course combines theory with hands-on Jupyter notebooks and interactive visualizations.
 
-| Course | Title                                                                                                              | Description                                                                                |
-| ------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| 📘 1    | [Linear Algebra](https://github.com/JohnsonIsHere/mathematics-for-machine-learning-notes/tree/main/linear-algebra) | Understand vectors, matrices, basis transformations, and how they relate to ML             |
-| 📗 2    | Multivariate Calculus                                                                                              | Learn optimization, gradients, chain rule, and backpropagation                             |
-| 📙 3    | Principal Component Analysis (PCA)                                                                                 | Use linear algebra & calculus to perform dimensionality reduction on high-dimensional data |
+| Course | Title                                                                                                                            | Description                                                                                |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 📘 1    | [Linear Algebra](https://github.com/JohnsonIsHere/mathematics-for-machine-learning-notes/tree/main/linear-algebra)               | Understand vectors, matrices, basis transformations, and how they relate to ML             |
+| 📗 2    | [Multivariate Calculus](https://github.com/JohnsonIsHere/mathematics-for-machine-learning-notes/tree/main/multivariate-calculus) | Learn optimization, gradients, chain rule, and backpropagation                             |
+| 📙 3    | Principal Component Analysis (PCA)                                                                                               | Use linear algebra & calculus to perform dimensionality reduction on high-dimensional data |
 
 🧑‍🏫 **Instructors:**  
 David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page  
@@ -70,6 +70,10 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 ---
 
 ### 📗 Mathematics for Machine Learning: Multivariate Calculus
+
+A. Introduction to Multivariate Calculus
+  - A1. Introduction
+  - A2. Derivative
 
 > 🛠️ Coming soon
 
