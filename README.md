@@ -73,7 +73,7 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 
 A. Introduction to Multivariate Calculus
   - A1. Introduction
-  - A2. Derivative
+  - A2. Derivatives
 
 > 🛠️ Coming soon
 
