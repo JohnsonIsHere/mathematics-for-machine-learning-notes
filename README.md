@@ -73,7 +73,10 @@ David Dye ・ Samuel J. Cooper ・ Marc Peter Deisenroth ・ A. Freddie Page
 
 A. Introduction to Multivariate Calculus
   - A1. Introduction
-  - A2. Derivatives
+  - A2. Derivatives (Sum Rule and Power Rule)
+  - A3. The Product Rule of Differentiation
+  - A4. The Chain Rule of Differentiation
+  - A5. Combination of the 4 rules (Sum, Power, Product, and Chain)
 
 > 🛠️ Coming soon
 
